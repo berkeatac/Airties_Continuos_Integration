@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "996621912479",
+    "firebase_url": "https://pushnotification-782a7.firebaseio.com",
+    "project_id": "pushnotification-782a7",
+    "storage_bucket": "pushnotification-782a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996621912479:android:b5d75907de594a2d",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996621912479-rqshe9m1l3akeqrcs3ggjtlto9nq0u01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDduJ9nPIsDhy-wDH2y4YKlMOUZrf1KzrQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
